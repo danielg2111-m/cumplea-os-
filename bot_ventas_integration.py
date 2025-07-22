@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-import pandas as pd
+# import pandas as pd  # Comentado temporalmente
 from datetime import datetime, timedelta
 import schedule
 import time
