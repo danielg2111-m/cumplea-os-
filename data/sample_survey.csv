@@ -1,0 +1,16 @@
+fecha_respuesta,edad,genero,satisfaccion_general,calidad_producto,atencion_cliente,precio_valor,recomendaria,frecuencia_compra,canal_preferido,comentarios
+2024-01-15,28,Femenino,5,5,4,4,Sí,Mensual,Online,Excelente servicio muy satisfecho con la compra
+2024-01-14,35,Masculino,4,4,4,3,Sí,Trimestral,Tienda física,Producto de alta calidad lo recomiendo totalmente
+2024-01-13,42,Femenino,3,3,3,3,Tal vez,Primera vez,Online,Está bien cumple con lo esperado
+2024-01-12,29,Masculino,2,2,2,2,No,Primera vez,App móvil,Muy decepcionado con el producto
+2024-01-11,38,Femenino,5,5,5,4,Sí,Mensual,Online,Atención al cliente excepcional resolvieron todas mis dudas
+2024-01-10,45,Masculino,4,4,3,3,Sí,Anual,Tienda física,Muy buena experiencia de compra volveré a comprar
+2024-01-09,31,Femenino,3,3,4,2,Tal vez,Trimestral,Teléfono,Producto decente sin quejas particulares
+2024-01-08,27,Masculino,1,1,1,1,No,Primera vez,Online,Servicio al cliente deficiente no resolvieron mi problema
+2024-01-07,39,Femenino,5,4,5,4,Sí,Mensual,App móvil,Superó mis expectativas producto increíble
+2024-01-06,33,Masculino,4,4,4,4,Sí,Mensual,Online,Servicio rápido y eficiente muy contento
+2024-01-05,46,Femenino,2,2,3,2,No,Primera vez,Tienda física,Calidad muy por debajo de lo esperado
+2024-01-04,30,Masculino,5,5,4,5,Sí,Trimestral,Online,Calidad precio excelente vale la pena
+2024-01-03,41,Femenino,3,3,3,3,Tal vez,Anual,App móvil,Servicio normal nada extraordinario
+2024-01-02,26,Masculino,4,4,4,3,Sí,Mensual,Online,Personal muy amable y profesional
+2024-01-01,37,Femenino,1,2,1,1,No,Primera vez,Teléfono,Precio muy alto para la calidad ofrecida
