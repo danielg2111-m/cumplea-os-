@@ -2,6 +2,31 @@
 
 Un sistema completo de automatización de ventas que integra Bilderklo y AppSheet con mensajería instantánea por WhatsApp.
 
+## 🚀 **INICIO RÁPIDO**
+
+### **Ejecutar el Bot (Método Más Fácil):**
+
+```bash
+# 1. Activar entorno virtual
+source bot_ventas_env/bin/activate
+
+# 2. Ejecutar bot simplificado
+python3 bot_simple.py
+```
+
+### **Probar el Bot:**
+
+```bash
+# En otra terminal, ejecutar pruebas
+python3 probar_bot.py
+```
+
+### **URLs del Bot:**
+- **Dashboard:** http://localhost:5000
+- **Salud:** http://localhost:5000/health
+- **Webhook Usuarios:** http://localhost:5000/webhook/new-user
+- **Webhook Actividad:** http://localhost:5000/webhook/user-activity
+
 ## 🚀 Características
 
 - **Integración automática** entre Bilderklo y AppSheet
